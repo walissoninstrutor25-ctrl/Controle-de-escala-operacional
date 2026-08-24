@@ -1,0 +1,87 @@
+{
+  "titulo": "Escala 5x1 — Motoristas Canavieiros — Safra 2026",
+  "tipoEscala": "5x1",
+  "ano": 2026,
+  "meses": [
+    {
+      "chave": "MARÇO",
+      "numero": 3,
+      "dias": 31,
+      "nome": "Março"
+    },
+    {
+      "chave": "ABRIL",
+      "numero": 4,
+      "dias": 30,
+      "nome": "Abril"
+    },
+    {
+      "chave": "MAIO",
+      "numero": 5,
+      "dias": 31,
+      "nome": "Maio"
+    },
+    {
+      "chave": "JUNHO",
+      "numero": 6,
+      "dias": 30,
+      "nome": "Junho"
+    },
+    {
+      "chave": "JULHO",
+      "numero": 7,
+      "dias": 31,
+      "nome": "Julho"
+    },
+    {
+      "chave": "AGOSTO",
+      "numero": 8,
+      "dias": 31,
+      "nome": "Agosto"
+    },
+    {
+      "chave": "SETEMBRO",
+      "numero": 9,
+      "dias": 30,
+      "nome": "Setembro"
+    },
+    {
+      "chave": "OUTUBRO",
+      "numero": 10,
+      "dias": 31,
+      "nome": "Outubro"
+    },
+    {
+      "chave": "NOVEMBRO",
+      "numero": 11,
+      "dias": 30,
+      "nome": "Novembro"
+    },
+    {
+      "chave": "DEZEMBRO",
+      "numero": 12,
+      "dias": 31,
+      "nome": "Dezembro"
+    }
+  ],
+  "grupos": [
+    "GRUPO 01",
+    "GRUPO 02",
+    "GRUPO 03",
+    "GRUPO 04",
+    "GRUPO 05",
+    "GRUPO 06",
+    "GRUPO 07",
+    "GRUPO 08"
+  ],
+  "colaboradoresPorGrupo": {
+    "GRUPO 01": "motoristas/grupo_01.json",
+    "GRUPO 02": "motoristas/grupo_02.json",
+    "GRUPO 03": "motoristas/grupo_03.json",
+    "GRUPO 04": "motoristas/grupo_04.json",
+    "GRUPO 05": "motoristas/grupo_05.json",
+    "GRUPO 06": "motoristas/grupo_06.json",
+    "GRUPO 07": "motoristas/grupo_07.json",
+    "GRUPO 08": "motoristas/grupo_08.json"
+  }
+}
